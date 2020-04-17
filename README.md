@@ -1,6 +1,8 @@
-# SUPER MARIO 64 hires texture pack
+# SUPER MARIO 64 hi-res texture pack
 Super Mario 64 high resolution texture pack made by myself for your favorite N64 emulator.
 
+## Preview
+![Font preview](/font_preview.jpg)
 ## Installation
 Put the content of *hires_texture* to your emulator texture pack path (Eg. *$AppPath\Plugins\GFX\hires_texture*).
 Don't forget to enable hi-res textures option in your emulator settings.
