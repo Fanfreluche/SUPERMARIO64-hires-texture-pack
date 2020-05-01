@@ -49,7 +49,7 @@ X	|	`646A9C64`
 Y	|	`9A6D7782`
 Z	|	`7C9E686E`
 Ç	|	`7A7E7984`
-, (comma)	|	`8A848688`
+, (comma)	|	`8A848688` [EU]<br/> `86868886` [USA]
 . (dot)	|	`8C868486`
 \- (hyphen)	|	`82888684`
 ’ (apostrophe)	|	`86888984` [EU]<br/> `88898880` [USA]
@@ -154,6 +154,7 @@ R button	|	`B1C091A7`
 Z button	|	`0ECC73B4`
 ▲ (up button)	|	`B0C2949A`
 ▼ (down button)	|	`92819878`
+▶ (right button)	|	`92A5A679`
 ↔ (left-right button)	|	`D4A575A8`
 × (cross)	|	`A48A62B0`
 Star (outline)	|	`9C937792`
